@@ -2,7 +2,7 @@
 <img src="https://ribeironicolas.github.io/HeYapp-ChatSite/icon.png" width="350">
 
 ## Teste aqui -> https://ribeironicolas.github.io/HeYapp-ChatSite/
-### Projeto desenvolvido pelos alunos 
+### Projeto desenvolvido pelos alunos: 
 - [Nicolas Ribeiro](https://github.com/ribeironicolas)
 - [Vitória Brito](https://github.com/Vitoriabrt)
 - [Gabriel Gustavo](https://github.com/gabrielguxtavo)
